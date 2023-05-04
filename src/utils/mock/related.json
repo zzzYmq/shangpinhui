@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "imgUrl":"/image/part01.png",
+        "attr":"Apple苹果iPhone 6s (A1699)",
+        "price":4088.00
+    },
+    {
+        "id":2,
+        "imgUrl":"/image/part02.png",
+        "attr":"Apple苹果iPhone 6s (A1699)",
+        "price":4088.00
+    },
+    {
+        "id":3,
+        "imgUrl":"/image/part03.png",
+        "attr":"Apple苹果iPhone 6s (A1699)",
+        "price":4088.00
+    }
+]

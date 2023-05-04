@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "imgUrl":"/image/like_01.png",
+        "attr":"Apple苹果iPhone 6s (A1699)",
+        "price":4088.00,
+        "command":700
+    },
+    {
+        "id":2,
+        "imgUrl":"/image/like_02.png",
+        "attr":"Apple苹果iPhone 6s (A1699)",
+        "price":4088.00,
+        "command":700
+    },
+    {
+        "id":3,
+        "imgUrl":"/image/like_03.png",
+        "attr":"金属A面，360°翻转，APP下单省300！",
+        "price":4068.00,
+        "command":20
+    },
+    {
+        "id":4,
+        "imgUrl":"/image/like_04.png",
+        "attr":"256SSD商务大咖，完爆职场，APP下单立减200",
+        "price":4088.00,
+        "command":700
+    }
+]

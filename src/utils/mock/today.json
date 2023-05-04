@@ -1,0 +1,21 @@
+{
+    "clockUrl":"/image/clock.png",
+    "recommendUrl":[
+        {
+            "id":1,
+            "imgUrl":"/image/today01.png"
+        },
+        {
+            "id":2,
+            "imgUrl":"/image/today02.png"
+        },
+        {
+            "id":3,
+            "imgUrl":"/image/today03.png"
+        },
+        {
+            "id":4,
+            "imgUrl":"/image/today04.png"
+        }
+    ]
+}

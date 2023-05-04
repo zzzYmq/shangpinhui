@@ -1,0 +1,31 @@
+{
+    "masterImg":"/image/l-m01.png",
+    "masterPrice":5299,
+    "suits":[
+
+        {
+            "id":1,
+            "imgUrl":"/image/dp01.png",
+            "name":"Feless费勒斯VR",
+            "price":50
+        },
+        {
+            "id":2,
+            "imgUrl":"/image/dp02.png",
+            "name":"Feless费勒斯VR",
+            "price":59
+        },
+        {
+            "id":3,
+            "imgUrl":"/image/dp03.png",
+            "name":"Feless费勒斯VR",
+            "price":99
+        },
+        {
+            "id":4,
+            "imgUrl":"/image/dp04.png",
+            "name":"Feless费勒斯VR",
+            "price":199
+        }
+    ]
+}
